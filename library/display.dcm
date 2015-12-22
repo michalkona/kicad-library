@@ -43,6 +43,24 @@ $CMP DISPLAY_3_LIGNE
 D DISPLAY EA7123-12C
 $ENDCMP
 #
+$CMP DOGM081-A
+D EA DOGMxxx-A series Text Display, ST7036 controller, 4-bit/8-bit/SPI interface
+K lcd character st7036 1x8
+F http://www.lcd-module.com/eng/pdf/doma/dog-me.pdf
+$ENDCMP
+#
+$CMP DOGM162-A
+D EA DOGMxxx-A series Text Display, ST7036 controller, 4-bit/8-bit/SPI interface
+K lcd character st7036 2x16
+F http://www.lcd-module.com/eng/pdf/doma/dog-me.pdf
+$ENDCMP
+#
+$CMP DOGM163-A
+D EA DOGMxxx-A series Text Display, ST7036 controller, 4-bit/8-bit/SPI interface
+K lcd character st7036 3x16
+F http://www.lcd-module.com/eng/pdf/doma/dog-me.pdf
+$ENDCMP
+#
 $CMP DOT-BAR
 D GRAPH unit
 K BAR DOT
