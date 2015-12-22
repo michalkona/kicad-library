@@ -43,6 +43,10 @@ $CMP DISPLAY_3_LIGNE
 D DISPLAY EA7123-12C
 $ENDCMP
 #
+$CMP DOGMxxx-A
+F http://www.lcd-module.com/eng/pdf/doma/dog-me.pdf
+$ENDCMP
+#
 $CMP DOT-BAR
 D GRAPH unit
 K BAR DOT
