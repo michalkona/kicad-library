@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BQ25504
+D Low-Power Boost Converter With Battery Management, Battery voltage range 2.5V-5.25V, DC input voltage 0.13V-3V, VQFN-16
+K battery power-supply dc-dc
+F http://www.ti.com/lit/ds/symlink/bq25504.pdf
+$ENDCMP
+#
 $CMP ISO7320C
 D Low Power Dual-Channel 2/0 Digital Isolator, 25Mbps 33ns, Fail-Safe High, SO8
 K 2Ch Dual Digital Isolator 25Mbps
