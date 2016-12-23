@@ -43,6 +43,12 @@ $CMP DISPLAY_3_LIGNE
 D DISPLAY EA7123-12C
 $ENDCMP
 #
+$CMP DOGS104x-A
+D Text LCD 4x10/2x10, SPI/I2C, 3.3V (440uA)
+K LCD
+F http://www.lcd-module.com/fileadmin/eng/pdf/doma/dogs104e.pdf
+$ENDCMP
+#
 $CMP DOT-BAR
 D GRAPH unit
 K BAR DOT
