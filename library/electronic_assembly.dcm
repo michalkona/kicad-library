@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DOGM132x-5
+D Graphic LCD 132x32, SPI, 2.4..3.3V (150uA)
+K LCD
+F http://www.lcd-module.com/eng/pdf/grafik/dogm132-5e.pdf
+$ENDCMP
+#
 #End Doc Library
